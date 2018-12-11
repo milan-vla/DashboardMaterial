@@ -1,0 +1,32 @@
+[
+    {"id":1,"name":"Don Jones","avatar":"svg-1","bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat","birthDate":"1983-05-04T00:00:00","notes":
+        [
+            {"id":1,"title":"Action item 1.1","date":"2018-12-13T21:54:39.9217063Z"},
+            {"id":2,"title":"Action item 1.2","date":"2018-12-25T21:54:39.9217187Z"}, 
+            {"id":3,"title":"Action item 1.3","date":"2019-01-04T21:54:39.921721Z"},
+            {"id":4,"title":"Action item 1.4","date":"2019-01-14T21:54:39.9217232Z"},
+            {"id":5,"title":"Action item 1.5","date":"2019-01-24T21:54:39.9217254Z"}
+      ]
+    },
+    {"id":2,"name":"Daniel Smith","avatar":"svg-2","bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat","birthDate":"1978-02-20T00:00:00","notes":
+        [
+            {"id":1,"title":"Action item 1.1","date":"2018-12-13T21:54:39.9217063Z"},
+            {"id":2,"title":"Action item 1.2","date":"2018-12-25T21:54:39.9217187Z"}, 
+            {"id":3,"title":"Action item 1.3","date":"2019-01-04T21:54:39.921721Z"}
+        ]    
+    },
+    {"id":3,"name":"Michael Jr","avatar":"svg-3","bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat","birthDate":"1985-11-11T00:00:00","notes":
+        [
+            {"id":1,"title":"Action item 1.1","date":"2018-12-13T21:54:39.9217063Z"},
+            {"id":2,"title":"Action item 1.2","date":"2018-12-25T21:54:39.9217187Z"}
+      ]    
+    },
+    {"id":4,"name":"Thomas John","avatar":"svg-4","bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat","birthDate":"1963-06-16T00:00:00","notes":
+        [
+            {"id":1,"title":"Action item 1.1","date":"2018-12-13T21:54:39.9217063Z"},
+            {"id":2,"title":"Action item 1.2","date":"2018-12-25T21:54:39.9217187Z"}, 
+            {"id":3,"title":"Action item 1.3","date":"2019-01-04T21:54:39.921721Z"},
+            {"id":4,"title":"Action item 1.4","date":"2019-01-14T21:54:39.9217232Z"}
+      ]    
+    }
+]
